@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|d:\\repos\\kalitim\\kalitim\\kalitim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|solutionrelative:kalitim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|d:\\repos\\kalitim\\kalitim\\kalitim\\beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|solutionrelative:kalitim\\beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|d:\\repos\\kalitim\\kalitim\\kalitim\\bulasikmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|solutionrelative:kalitim\\bulasikmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|d:\\repos\\kalitim\\kalitim\\kalitim\\camasirmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A534A324-72DC-443A-AFD6-F59D1046542E}|Kalitim\\Kalitim.csproj|solutionrelative:kalitim\\camasirmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulasikMakinesi.cs",
+              "DocumentMoniker": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\BulasikMakinesi.cs",
+              "RelativeDocumentMoniker": "Kalitim\\BulasikMakinesi.cs",
+              "ToolTip": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\BulasikMakinesi.cs",
+              "RelativeToolTip": "Kalitim\\BulasikMakinesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:53:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CamasirMakinesi.cs",
+              "DocumentMoniker": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\CamasirMakinesi.cs",
+              "RelativeDocumentMoniker": "Kalitim\\CamasirMakinesi.cs",
+              "ToolTip": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\CamasirMakinesi.cs",
+              "RelativeToolTip": "Kalitim\\CamasirMakinesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:47:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeyazEsya.cs",
+              "DocumentMoniker": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\BeyazEsya.cs",
+              "RelativeDocumentMoniker": "Kalitim\\BeyazEsya.cs",
+              "ToolTip": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\BeyazEsya.cs",
+              "RelativeToolTip": "Kalitim\\BeyazEsya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:44:14.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +79,7 @@
               "RelativeDocumentMoniker": "Kalitim\\Program.cs",
               "ToolTip": "D:\\repos\\Kalitim\\Kalitim\\Kalitim\\Program.cs",
               "RelativeToolTip": "Kalitim\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T20:40:19.308Z",
               "EditorCaption": ""
